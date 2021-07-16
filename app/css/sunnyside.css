@@ -467,7 +467,7 @@ footer .footer-text ul li {
 footer .footer-text ul li a {
   color: var(--main-Dark-moderate);
   font-family: var(--font-Barlow);
-  transition: 0.3s;
+  transition: 0.5s;
 }
 footer .footer-text ul li a:hover {
   color: var(--secondary-White);
