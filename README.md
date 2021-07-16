@@ -1,2 +1,2 @@
 # sunnysid-project
-this is my first challenge 
+This is the first challenge I solve in frontend mentor 
